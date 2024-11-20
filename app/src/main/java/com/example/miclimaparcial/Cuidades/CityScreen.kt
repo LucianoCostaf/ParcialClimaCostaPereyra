@@ -40,7 +40,7 @@ fun CityScreen(router: Router, latitude: Double?, longitude: Double?) {
 
     // Ciudades populares
     val popularCities = listOf(
-        City(name = "Marruecos", coord = Coord(31.7917f, -7.0926f)),
+        City(name = "Rabat", coord = Coord(34.0209f, -6.8417f)),
         City(name = "Londres", coord = Coord(51.5074f, -0.1278f)),
         City(name = "Quito", coord = Coord(-0.1807f, -78.4678f)),
         City(name = "Buenos Aires", coord = Coord(-34.6037f, -58.3816f)),
